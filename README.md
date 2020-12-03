@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Oran
 
 <!--
 **Oran-Ac/Oran-AC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+* :school: Junior at 🇨🇳 [BIT](https://www.bit.edu.cn/), *BSc in Computer Science*
+* ⚡ Pytorch / C++ / Kotlin
+* 📫 Email me at：oran_official@outlook.com
+* :whale2: Working with [GMFTBY](https://github.com/gmftbyGMFTBY)
