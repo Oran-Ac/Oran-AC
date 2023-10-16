@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/dynamic/json?color=grey&label=GitHub&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DOran-Ac) 
 * :school: B.Sc. at 🇨🇳 [BIT](https://www.bit.edu.cn/), *BSc in Computer Science*
 * ⚡ Pytorch
-* 📫 Email me at：oran_official@outlook.com
+* 📫 Email me at：zpzhao.zzp@gmail.com.com
 <!-- * :whale2: Used to work with [GMFTBY](https://github.com/gmftbyGMFTBY) at *DataHammer Lab*, BIT -->
 
 
